@@ -1,0 +1,11 @@
+# Virtual Environments
+venv/
+functions/venv/
+
+# Secrets
+serviceAccountKey.json
+
+# Temporary Files
+__pycache__/
+*.pyc
+functions.zip

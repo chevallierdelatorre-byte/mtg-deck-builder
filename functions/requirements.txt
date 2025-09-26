@@ -1,0 +1,5 @@
+firebase-admin
+google-cloud-firestore
+google-generativeai
+functions-framework
+firebase-functions>=0.2.0
